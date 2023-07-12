@@ -1,0 +1,11 @@
+/obj
+/bin
+/idea
+/out/
+.idea/misc.xml
+
+*.class
+.idea/workspace.xml
+*.txt
+*.xml
+*.iml
